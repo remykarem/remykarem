@@ -1,14 +1,14 @@
-Oh hey didn't see you there. Here are some of my projects.
+Oh hey didn't see you there. Here are some of my recently-maintained projects.
 
 # Utilities
-* Python2jupyter
-* hourglass
-* minishell
+* [python2jupyter](https://github.com/remykarem/python2jupyter)
+* [hourglass](https://github.com/remykarem/hourglass)
+* [minishell](https://github.com/remykarem/minishell)
 
 # AI/ML/DS
-* Mixed Naive Bayes
-* trees-and-forest
-* pandas-addons
+* [pandas-addons](https://github.com/remykarem/pandas-addons)
+* [mixed-naive-bayes](https://github.com/remykarem/mixed-naive-bayes)
+* [trees-and-forest](https://github.com/remykarem/trees-and-forests)
 
 # Pet projects
-* bython
+* [bython](https://github.com/remykarem/bython)
