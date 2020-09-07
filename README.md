@@ -6,7 +6,7 @@ Oh hey didn't see you there. Here are some of my recently-maintained projects.
 * [minishell](https://github.com/remykarem/minishell)
 
 ## AI/ML/DS
-* [pandas-addons](https://github.com/remykarem/pandas-lightning)
+* [pandas-lightning](https://github.com/remykarem/pandas-lightning)
 * [mixed-naive-bayes](https://github.com/remykarem/mixed-naive-bayes)
 * [trees-and-forest](https://github.com/remykarem/trees-and-forests)
 
