@@ -12,7 +12,7 @@ Oh hey didn't see you there. Here are some of my recently-maintained projects.
 * [autograd](https://github.com/remykarem/autograd)
 
 ## CS
-* [visualise-dijkstra](https://github.com/remykarem/visualise-dijkstra)
+* [visualise-dijkstra-shortest-path](https://github.com/remykarem/visualise-dijkstra-shortest-path)
 
 ## Pet projects
 * [bython](https://github.com/remykarem/bython)
