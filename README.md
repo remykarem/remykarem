@@ -16,4 +16,3 @@ Oh hey didn't see you there. Here are some of my recently-maintained projects.
 
 ## Pet projects
 * [bython](https://github.com/remykarem/bython)
-* [autograd](https://github.com/remykarem/autograd)
