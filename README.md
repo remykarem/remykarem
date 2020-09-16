@@ -1,4 +1,4 @@
-Oh hey didn't see you there. Here are some of my recently-maintained projects.
+Oh hey didn't see you there. Here are some of my projects.
 
 ## Utilities
 * [python2jupyter](https://github.com/remykarem/python2jupyter) Convert Jupyter notebooks to Python and vice versa
