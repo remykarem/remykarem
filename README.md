@@ -8,7 +8,7 @@ Oh hey didn't see you there. Here are some of my random ideas penned down as cod
 ## AI/ML/DS
 * [pandas-lightning](https://github.com/remykarem/pandas-lightning) Pandas, but expect higher productivity
 * [mixed-naive-bayes](https://github.com/remykarem/mixed-naive-bayes) Naive Bayes for continuous and categorical variables
-* [trees-and-forest](https://github.com/remykarem/trees-and-forests) Tree-based algorithms from scratch
+* [trees-and-forest](https://github.com/remykarem/trees-and-forests) Decision tree, random forest, boosted trees from scratch
 * [autograd](https://github.com/remykarem/autograd) Automatic differentiation
 * [py2pddl](https://github.com/remykarem/py2pddl) Write in Python with OOP, then convert to PDDL
 
