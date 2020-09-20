@@ -10,6 +10,7 @@ Oh hey didn't see you there. Here are some of my projects.
 * [mixed-naive-bayes](https://github.com/remykarem/mixed-naive-bayes) Naive Bayes for continuous and categorical variables
 * [trees-and-forest](https://github.com/remykarem/trees-and-forests) Tree-based algorithms from scratch
 * [autograd](https://github.com/remykarem/autograd) Automatic differentiation
+* [py2pddl](https://github.com/remykarem/py2pddl) Write in Python with OOP, then convert to PDDL
 
 ## CS
 * [visualise-dijkstra-shortest-path](https://github.com/remykarem/visualise-dijkstra-shortest-path) 
