@@ -1,4 +1,4 @@
-Oh hey didn't see you there. Here are some of my projects, some of which are WIPs.
+Oh hey didn't see you there. Here are some of my projects.
 
 ## Utilities
 * [hourglass](https://github.com/remykarem/hourglass) Easy way to manipulate datetime
