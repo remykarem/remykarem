@@ -25,3 +25,4 @@ Oh hey didn't see you there. Here are some of my projects.
 ## Pet projects
 * [bython](https://github.com/remykarem/bython) Basic Python interpreter written in C
 * [url-shortener](https://github.com/remykarem/url-shortener) URL shortener app [here](http://whispering-hamlet-28439.herokuapp.com)
+* [The Kiasu Grocer](https://github.com/remykarem/the-kiasu-grocer-android) Calculator you need for grocery shopping. Available in Google Play Store [here](https://play.google.com/store/apps/details?id=com.raimikarim.thekiasushopper)
