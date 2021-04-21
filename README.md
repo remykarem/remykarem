@@ -1,16 +1,16 @@
 Oh hey didn't see you there. Here are some of my projects.
 
 ## Utilities
-* [hourglass](https://github.com/remykarem/hourglass) Easy way to manipulate datetime
-* [minishell](https://github.com/remykarem/minishell) View folders with large amount of files quickly
 * [python2jupyter](https://github.com/remykarem/python2jupyter) Convert Jupyter notebooks to Python and vice versa
+* [minishell](https://github.com/remykarem/minishell) View folders with large amount of files quickly
+* [hourglass](https://github.com/remykarem/hourglass) Easy way to manipulate datetime
 
 ## AI/ML/DS
 
-### Tensor/data manipulation
+### Tensor/dataframe manipulation
+* [pandas-lightning](https://github.com/remykarem/pandas-lightning) Pandas, but expect higher productivity
 * [autograd](https://github.com/remykarem/autograd) Automatic differentiation
 * [numpy-named-tensors](https://github.com/remykarem/numpy-named-tensors) More intuitive way of manipulating NumPy tensors'
-* [pandas-lightning](https://github.com/remykarem/pandas-lightning) Pandas, but expect higher productivity
 
 ### ML/DS
 * [trees-and-forest](https://github.com/remykarem/trees-and-forests) Decision tree, random forest, boosted trees from scratch
