@@ -13,7 +13,7 @@ Oh hey didn't see you there. Here are some of my projects.
 * [numpy-named-tensors](https://github.com/remykarem/numpy-named-tensors) More intuitive way of manipulating NumPy tensors'
 
 ### ML/DS
-* [trees-and-forest](https://github.com/remykarem/trees-and-forests) Decision tree, random forest, boosted trees from scratch
+* [cattrees](https://github.com/remykarem/cattrees) Decision tree, random forest, boosted trees from scratch with hopefully categorical support
 * [mixed-naive-bayes](https://github.com/remykarem/mixed-naive-bayes) Naive Bayes for continuous and categorical variables
 * [data-science-interview](https://github.com/remykarem/data-science-flashcards) App to practice data science interview questions [here](http://salty-shelf-54742.herokuapp.com)
 
