@@ -3,8 +3,8 @@ Oh hey didn't see you there. Here are some of my projects.
 **Utils**
 
 * [python2jupyter](https://github.com/remykarem/python2jupyter)
+* [pyterator](https://github.com/remykarem/pyterator)
 * [minishell](https://github.com/remykarem/minishell)
-* [hourglass](https://github.com/remykarem/hourglass)
 
 **ML/DS**
 
@@ -21,7 +21,6 @@ Oh hey didn't see you there. Here are some of my projects.
 **Planning, search, reinforcement learning**
 
 * [py2pddl](https://github.com/remykarem/py2pddl)
-* [monte-carlo-tree-search](https://github.com/remykarem/python-monte-carlo-tree-search)
 * [visualise-dijkstra-shortest-path](https://github.com/remykarem/visualise-dijkstra-shortest-path)
 
 **Programming language**
