@@ -2,7 +2,7 @@ Oh hey didn't see you there. Here are some of my projects.
 
 **Utils**
 
-[python2jupyter](https://github.com/remykarem/python2jupyter) | [pyterator](https://github.com/remykarem/pyterator) | [minishell](https://github.com/remykarem/minishell)
+[python2jupyter](https://github.com/remykarem/python2jupyter) | [pyterator](https://github.com/remykarem/pyterator)
 
 **ML/DS**
 
@@ -10,7 +10,7 @@ Oh hey didn't see you there. Here are some of my projects.
 
 **Tensor/dataframe manipulation**
 
-[pandas-lightning](https://github.com/remykarem/pandas-lightning) | [autograd](https://github.com/remykarem/autograd) | [numpy-named-tensors](https://github.com/remykarem/numpy-named-tensors)
+[pandas-lightning](https://github.com/remykarem/pandas-lightning) | [autograd](https://github.com/remykarem/autograd)
 
 **Planning, search, reinforcement learning**
 
